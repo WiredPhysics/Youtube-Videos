@@ -12,7 +12,7 @@ There are three main versions of Manim:
 
 _\*All these version are very different from each other._
 
-> In this repo, I used the OpenGL version (most of the time).
+> **In this repo, I am using [this](https://github.com/3b1b/manim/tree/17d7f0b6f0820818f3ff40d9b8746e5d74194d8a) commit of the OpenGL version.**
 
 ---
 
@@ -30,6 +30,8 @@ For tutorials, you may find a great number of examples from the official GitHub 
     - Theorem of Beethoven put together a great number of video tutorials.
       Check out the [YouTube channel](https://www.youtube.com/c/TheoremofBeethoven) and [GitHub repo](https://github.com/Elteoremadebeethoven/AnimationsWithManim)
 3. ManimCommunity version: Check out the [tutorials](https://docs.manim.community/en/v0.3.0/tutorials.html) on their [website](https://www.manim.community/)
+
+---
 
 **Note**: The library Manim is open source and licensed under MIT license. The codes in this repository are only to be used for [Warptron](https://www.youtube.com/c/WackyPhysics) and [Posts](https://warptron.substack.com).
 
