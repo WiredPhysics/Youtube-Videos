@@ -1,8 +1,8 @@
 # Warptron
 
-This repository contains the code used to generate videos on my Youtube channel [Warptron](https://www.youtube.com/c/WackyPhysics).
+This repository contains the code used to generate videos on my YouTube channel [Warptron](https://www.youtube.com/c/WackyPhysics) and [Posts](https://warptron.substack.com).
 
-The videos are animated using the library [Manim](https://github.com/3b1b/manim) (based on Python) created by Grant Sandersone ([3Blue1Brown](https://www.3blue1brown.com/))
+The videos are animated using the library [Manim](https://github.com/3b1b/manim) (based on Python) created by Grant Sandersone ([3Blue1Brown](https://www.3blue1brown.com))
 
 There are three main versions of Manim:
 
@@ -31,6 +31,6 @@ For tutorials, you may find a great number of examples from the official GitHub 
       Check out the [YouTube channel](https://www.youtube.com/c/TheoremofBeethoven) and [GitHub repo](https://github.com/Elteoremadebeethoven/AnimationsWithManim)
 3. ManimCommunity version: Check out the [tutorials](https://docs.manim.community/en/v0.3.0/tutorials.html) on their [website](https://www.manim.community/)
 
-**Note**: The library Manim is open source and licensed under MIT license. The codes in this repository are only to be used for [Warptron](https://www.youtube.com/c/WackyPhysics).
+**Note**: The library Manim is open source and licensed under MIT license. The codes in this repository are only to be used for [Warptron](https://www.youtube.com/c/WackyPhysics) and [Posts](https://warptron.substack.com).
 
 Copyright &copy; 2021 Warptron
